@@ -44,7 +44,7 @@ Laser scan data is processed in the scan_callback, where it's inserted into the 
 
 ## Dependencies
 1. [Ros deeplearning](https://git.hs-coburg.de/Autonomous_Driving/ros_deep_learning)
-2. [sf_msg](https://git.hs-coburg.de/SpotFinder/sf_msgs)
+2. [sf_msg](https://github.com/Team-SpotFinder/sf_msgs)
 3. [ydlidar](https://git.hs-coburg.de/Autonomous_Driving/ydlidar_ros2)
 4. [realsense_camera](https://github.com/IntelRealSense/realsense-ros)
 
@@ -53,7 +53,7 @@ This repository needs to be cloned, built and sourced. It needs to be cloned to 
 
 ## Run Steps
 
-follow run steps in [sf_master](https://git.hs-coburg.de/SpotFinder/sf_master)
+follow run steps in [sf_master](https://github.com/Team-SpotFinder/sf_master)
 
 1. start the node
 ```bash
